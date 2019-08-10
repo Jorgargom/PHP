@@ -60,8 +60,38 @@ calculadora(20, 3);
 
 echo "<hr>";
 
+
+
 /* Ejemplo 3 */
 
+function devuelveNombre($nombre) {
+
+    return "El nombre de esta persona es: $nombre";
+}
+
+echo devuelveNombre("Jorge");
+
+echo "<hr>";
+
+/* Ejemplo 4 */
+
+function miNombre($nombre) {
+    $texto = "El nombre de esta persona es: $nombre";
+    return $texto;
+}
+
+function misApellidos($apellidos) {
+    $texto = " y sus apellidos son: $apellidos";
+    return $texto;
+}
+
+function devuelveDatosPersona($nombre, $apellidos) {
+    $texto = miNombre($nombre).misApellidos($apellidos);
+
+    return $texto;
+}
+
+echo devuelveDatosPersona("Jorge", "García Gómez");
 
 
 

@@ -1,0 +1,6 @@
+<!-- Variables locales -->
+
+
+
+
+<!-- Varibles globales -->
