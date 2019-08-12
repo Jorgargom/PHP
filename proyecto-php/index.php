@@ -95,6 +95,18 @@
                 temporibus quibusdam deserunt numquam veniam ab quia nisi nostrum officiis nobis, 
                 dolore sunt quam, repellat non ea iusto. Minima, qui?</p>
             </article>
+            <article class="entradas">
+                <h2>Título de mi entrada</h2>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus debitis 
+                temporibus quibusdam deserunt numquam veniam ab quia nisi nostrum officiis nobis, 
+                dolore sunt quam, repellat non ea iusto. Minima, qui?</p>
+            </article>
+            <article class="entradas">
+                <h2>Título de mi entrada</h2>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus debitis 
+                temporibus quibusdam deserunt numquam veniam ab quia nisi nostrum officiis nobis, 
+                dolore sunt quam, repellat non ea iusto. Minima, qui?</p>
+            </article>
         
         </div>
 
