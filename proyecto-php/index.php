@@ -115,7 +115,7 @@
     <!-- PIÉ DE PÁGINA  -->
 
     <footer id="pie">
-        <p>Desarrollado por Jorge García &copy; 2019</p>
+        <p>Desarrollado por Jorge García &copy; 2023</p>
     </footer>
     
 </body>
