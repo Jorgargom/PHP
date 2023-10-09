@@ -12,7 +12,7 @@
     </nav>
     <div class="contenedor">
         <form action="validacion.php" method="post">
-            <h2>Logueate</h2>
+            <h2>Loguin</h2>
             <br><br>
             <label for="">Usuario</label>
             <br>
@@ -22,11 +22,11 @@
             <br>
             <input type="password" name="contraseña" id="">
             <br><br>
-            <button type="submit">Ingresar</button>
+            <button type="submit" class="ingresar">Ingresar</button>
         </form>
         <br>
-        <p class="registrate"></p>
-        <p class="vinculo"><a href="registro.php" class="r">Registrate</a></p>
+        <p class="registrate">Si no tienes una cuenta</p>
+        <p class="vinculo"><a href="registro.php" class="p">Registrate</a></p>
     </div>
 </body>
 </html>
