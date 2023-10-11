@@ -8,12 +8,12 @@
 </head>
 <body>
     <nav>
-        <h1>Bienvenido</h1>
+        <h1>Unete a nuestra familia</h1>
     </nav>
     <div class="contenedor_p">
         <form action="validacion_registro.php" method="post">
             <h2>Registro</h2>
-            <br><br><br>
+            <br><br>
             <label for="">Nombre</label>
             <br>
             <input type="text" name="" id="">
@@ -30,7 +30,10 @@
             <br>
             <input type="email" name="" id="" required>
             <br><br>
+            <button class="ingresar">Registrarse</button>
         </form>
+        <p class="text">¿Tienes una cuenta? Logueate aquí</p>
+        <p class="login"><a href="">Login</a></p>
     </div>
 </body>
 </html>
